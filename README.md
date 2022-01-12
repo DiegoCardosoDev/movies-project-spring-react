@@ -1,20 +1,23 @@
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React
 
 
+   <div style="display: inline_block"><br>
+  <img align="center" alt="Diego-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Diego-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+   <img align="center" alt="Rafa-Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+       <img align="center" alt="Rafa-Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
+     <img align="center" alt="Rafa-Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
 
 
-
+  
+  
 
 #### Node (16 LTS) e Yarn
 
-###### Guia de instalação das ferramentas
+###### instalação das ferramentas
 
-```bash
-node -v
-yarn -v
-```
 
-Caso precise instalar o Yarn, faça o comando:
 
 ```
 npm install --global yarn
