@@ -28,6 +28,8 @@ public class ScoreService {
     @Autowired
     private ScoreRepository scoreRepository;
 
+
+    //logica para salvar avaliação
     @Transactional
     public MovieDTO saveScore(ScoreDTO dto) {
 
