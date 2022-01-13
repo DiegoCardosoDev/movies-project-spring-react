@@ -12,7 +12,7 @@
   
 ### Link do app Netlify -> [movies-diego-project.netlify.app ](movies-diego-project.netlify.app)
    
-### Link App heroku -> [https://diego-movies.herokuapp.com/](https://diego-movies.herokuapp.com/)
+### Link App heroku -> [https://diego-movies.herokuapp.com](https://diego-movies.herokuapp.com/)
 
 
 #### Node (16 LTS) e Yarn
