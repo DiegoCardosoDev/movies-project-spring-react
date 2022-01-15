@@ -9,7 +9,7 @@ import './styles.css';
         <header>
         <nav className="container">
           <div className="dsmovie-nav-content">
-            <h1>Ds Movie</h1>
+            <h1>Movies Score</h1>
             <a href="https://github.com/DiegoCardosoDev">
                 
               <div className="dsmovi-contact-container">
