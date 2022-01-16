@@ -1,17 +1,18 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rancho&family=Sedgwick+Ave&display=swap');
 
 :root {
-  --color-primary: rgb(31, 31, 32);
+  --color-primary: #FF1700;
 }
 
 * {
     box-sizing: border-box;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Rancho', cursive;
+    font-family: 'Sedgwick Ave', cursive;
+    font-size: 20px;
 }
 
 html, body {
-    background-color: #E5E5E5;
+    background-color: #222831;
 }
 
 a, a:hover {
