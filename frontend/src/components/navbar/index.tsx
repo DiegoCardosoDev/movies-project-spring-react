@@ -10,7 +10,7 @@ import './styles.css';
         <nav className="container">
           <div className="dsmovie-nav-content">
             <h1>Movies Score</h1>
-            <a href="https://github.com/DiegoCardosoDev">
+            <a href="https://github.com/DiegoCardosoDev/movies-project-spring-react">
                 
               <div className="dsmovi-contact-container">
                 <IconGit/>
